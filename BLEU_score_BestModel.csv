@@ -1,0 +1,2 @@
+modelName,AverageBleu Score
+Trained_Models/model_batchsize_16_hidsize_512_DP_0.2_worddim_1024.h5,0.6906165147618178
