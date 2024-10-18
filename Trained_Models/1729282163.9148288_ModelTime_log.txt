@@ -1,2 +1,0 @@
-Model Name, time
- model_batchsize_16_hidsize_512_DP_0.2_worddim_1024, 2750.9301545619965
