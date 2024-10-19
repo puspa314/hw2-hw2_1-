@@ -13,5 +13,5 @@ the bash coommand : /hw2_seq2seq2.sh testing_data output.txt
 output.txt will have the generated captions. 
 
 
-Also, keep the testing_label,json file in testing_data directetroy and training_label.json file in training_data directory.
+Also, keep the testing_label.json file in testing_data directetroy and training_label.json file in training_data directory.
 
