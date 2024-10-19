@@ -1,11 +1,11 @@
 # hw2-hw2_1-
 
-For training make sure train,test = True,False in Main Execution Function at line 681
+For training make sure " train,test = True,False "  in Main Execution Function at line 681
 
 the bash command : /hw2_seq2seq2.sh training_data 
 
 
-For testing make sure train,test = False, True in Main Execution Function at line 681
+For testing make sure " train,test = False, True "  in Main Execution Function at line 681
 and  in def testmodel(arg)  ModelSaveLoc = "name of the folder of best model"
 
 the bash coommand : /hw2_seq2seq2.sh testing_data output.txt
